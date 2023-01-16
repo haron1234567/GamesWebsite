@@ -1,5 +1,5 @@
 function showtime(){
     const now = new Date();
-    alert(now.toLocaleTimeString())
+    alert("time " + now.toLocaleTimeString())
 }
 
